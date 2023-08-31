@@ -1,0 +1,22 @@
+::selection {
+  background: indigo;
+  color: pink;
+}
+
+:root {
+  color: #111;
+  background-color: bisque;
+  background-image: linear-gradient(
+    .9turn,
+    peachpuff,
+    coral,
+    lavenderblush,
+    mistyrose
+  );
+}
+
+:any-link {
+  color: darkmagenta;
+  background-color: papayawhip;
+  transition: 600ms;
+}
